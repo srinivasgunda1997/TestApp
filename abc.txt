@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 welcome mr Sarath
-=======
-welcome mr Nagaraj & Sarath !!!!
->>>>>>> a6fe83c263de6fae737f560f1d55460e66df5c80
+
